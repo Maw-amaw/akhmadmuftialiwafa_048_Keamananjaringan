@@ -1,8 +1,6 @@
-# akhmadmuftialiwafa_048_Keamananjaringan
-
 
 # Kelompok A9
-
+Akhmad Mufti Ali Wafa 
 
 # Demo
 Owasp Juice Shop A1 : https://www.youtube.com/watch?v=ebI_izN6vNA
